@@ -1,2 +1,6 @@
 # kivy_inventario
-Inventario con python kivy y sqlite
+Inventario para gestionar mercancia desde el celular.
+# Tecnologias
+- Python
+- Kivy
+- SQLite
